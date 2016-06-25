@@ -9,4 +9,4 @@ analyze which accounts got most retweets from a specific account
 
 Sample output:
 
-![Image of sample output](https://github.com/programmieraffe/twitter-retweet-analysis-php/sample_output.png)
+![Image of sample output](/sample_output.png)
